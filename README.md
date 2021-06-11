@@ -1,2 +1,8 @@
 # app
 ana
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/carolina167o02583/amplifyapp.git
+git push -u origin main
